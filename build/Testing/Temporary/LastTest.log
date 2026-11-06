@@ -1,0 +1,39 @@
+Start testing: Nov 06 14:34 IST
+----------------------------------------------------------
+1/2 Testing: integration_container
+1/2 Test: integration_container
+Command: "/home/xilinx/Desktop/otus/project/tests/integration_container.sh" "/home/xilinx/Desktop/otus/project/build/minidocker" "/home/xilinx/Desktop/otus/project/build/minidockerd"
+Directory: /home/xilinx/Desktop/otus/project/build
+"integration_container" start time: Nov 06 14:34 IST
+Output:
+----------------------------------------------------------
+minidockerd listening on /tmp/minidocker-test-6101.sock
+state dir: /tmp/minidocker-state-6101
+[+] container tests: OK
+<end of output>
+Test time =   6.75 sec
+----------------------------------------------------------
+Test Passed.
+"integration_container" end time: Nov 06 14:34 IST
+"integration_container" time elapsed: 00:00:06
+----------------------------------------------------------
+
+2/2 Testing: daemon_protocol
+2/2 Test: daemon_protocol
+Command: "/home/xilinx/Desktop/otus/project/tests/daemon_protocol.sh" "/home/xilinx/Desktop/otus/project/build/minidocker" "/home/xilinx/Desktop/otus/project/build/minidockerd"
+Directory: /home/xilinx/Desktop/otus/project/build
+"daemon_protocol" start time: Nov 06 14:34 IST
+Output:
+----------------------------------------------------------
+minidockerd listening on /tmp/minidocker-proto-6158.sock
+state dir: /tmp/minidocker-proto-state-6158
+[+] daemon tests: OK
+<end of output>
+Test time =  11.05 sec
+----------------------------------------------------------
+Test Passed.
+"daemon_protocol" end time: Nov 06 14:34 IST
+"daemon_protocol" time elapsed: 00:00:11
+----------------------------------------------------------
+
+End testing: Nov 06 14:34 IST

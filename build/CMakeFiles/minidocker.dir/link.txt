@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/minidocker.dir/main.cpp.o -o minidocker  libminidocker_core.a -lutil -lpthread 

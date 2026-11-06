@@ -1,0 +1,10 @@
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/minidocker_core.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/minidocker.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/minidockerd.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/test.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/edit_cache.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/rebuild_cache.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/list_install_components.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/install.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/install/local.dir
+/home/xilinx/Desktop/otus/project/build/CMakeFiles/install/strip.dir

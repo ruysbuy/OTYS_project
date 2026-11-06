@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminidocker_core.a CMakeFiles/minidocker_core.dir/src/util.cpp.o CMakeFiles/minidocker_core.dir/src/container.cpp.o CMakeFiles/minidocker_core.dir/src/cgroups.cpp.o CMakeFiles/minidocker_core.dir/src/pty_relay.cpp.o CMakeFiles/minidocker_core.dir/src/store.cpp.o CMakeFiles/minidocker_core.dir/src/daemon.cpp.o
+/usr/bin/ranlib libminidocker_core.a
